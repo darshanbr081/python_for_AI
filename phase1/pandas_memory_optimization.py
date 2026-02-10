@@ -1,0 +1,1 @@
+"""**Pandas Memory Optimization:** Take a 1GB DataFrame and reduce its memory footprint by 50% using subtype downcasting."""
